@@ -11,14 +11,13 @@ require customization.  Replace [TODO: PROJECTNAME] with the name of your projec
 
 <!-- template begins here-->
 
-# Welcome to the [TODO:Projectname] Project!
+# Welcome to the Foo Project!
 
 <!-- Mission Statement -->
 <!-- More information about crafting your mission statement with examples -->
 <!-- https://contribute.cncf.io/maintainers/governance/charter/ -->
 
-[TODO: PROJECTNAME] is a [TODO: Type of Tool] that [TODO: Functions it
-performs].  [TODO: Reasons why these are needed and valuable].  [TODO:
+Foo is a fooman that Foos.  [TODO: Reasons why these are needed and valuable].  [TODO:
 Implementation, strategy and architecture].
 
 [TODO: Additional paragraph describing your project (optional)]
